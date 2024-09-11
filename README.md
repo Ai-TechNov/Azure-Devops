@@ -85,9 +85,9 @@ Implementing RBAC
 Best Practices for RBAC
 
 Day 13: Introduction to Azure DevOps
-Overview of Azure DevOps
-Introduction to the Azure DevOps services
-Setting Up Projects and Repositories
+- Overview of Azure DevOps
+- Introduction to the Azure DevOps services
+- Setting Up Projects and Repositories
 
 Day 14: Azure DevOps - CI Setup - (PROJECT 2)
 Implementing Continuous Integration (CI)
